@@ -23,7 +23,6 @@ def clear():
 
 
 def logo():
-    print(yellow + pyfiglet.figlet_format("Hackers Code", font="slant"))
     print(white + "version 0.0.1\ntelegram: @kvorder\n\n")
     menu()
 
